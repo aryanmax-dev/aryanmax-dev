@@ -1,9 +1,9 @@
 # Aryan Kumar
 
-### Software Developer | Tech Enthusiast | Problem Solver
+### B.Tech AIML Student | Software Developer | Tech Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Passionate+Software+Developer;Building+Clean+%26+Scalable+Solutions;Always+Learning+%26+Exploring+Tech;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Aspiring+Software+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Clean+%26+Scalable+Solutions;Always+Learning+%26+Exploring+Tech;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,17 +16,21 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-Hi there! 👋 I'm **Aryan Kumar**, a tech enthusiast and developer who loves building things, exploring new technologies, and writing clean, efficient code. 
+Hi there! 👋 I'm **Aryan Kumar**, a B.Tech student specializing in Artificial Intelligence and Machine Learning (AIML).
 
-- 🌱 Currently exploring advanced software development concepts.
-- 💡 Interested in web technologies, building tools, and solving complex problems.
-- 🚀 Always open to collaborations, learning new tech stacks, and connecting with fellow developers.
+I'm passionate about software development, problem-solving, and exploring emerging technologies. I enjoy building practical projects, collaborating with developers, and continuously improving my technical skills.
+
+- 🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning.
+- 🌱 Currently improving my Data Structures & Algorithms and software development skills.
+- 💡 Interested in AI/ML, web development, and full-stack technologies.
+- 🚀 Enjoy working on real-world projects and collaborating with development teams.
+- 🤝 Open to internships, collaborations, and learning opportunities.
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 ### Programming Languages
 <p>
@@ -45,7 +49,31 @@ Hi there! 👋 I'm **Aryan Kumar**, a tech enthusiast and developer who loves bu
 
 ---
 
-## GitHub Statistics
+## 🚀 Featured Projects
+
+### 1. EventSphere – AI-Powered College Event Management Platform
+
+<p>
+  <img src="https://img.shields.io/badge/Project-Team%20Collaboration-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Repository-Public-success?style=flat-square" />
+</p>
+
+An AI-powered college event management and student engagement platform designed to simplify event discovery, registration, management, and analytics.
+
+**Key Features:**
+- 🎯 College event discovery and management.
+- 👥 Student registration and engagement.
+- 🤖 AI-powered event management capabilities.
+- 📊 Event analytics and insights.
+- 🔐 User authentication and backend integration.
+
+**Repository:** [View EventSphere on GitHub](https://github.com/harshittripathi-dev/eventsphere)
+
+**Contribution:** Collaborative team development. Explore the repository and its commit history to see individual contributions.
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryanmax-dev&theme=tokyonight" alt="GitHub Statistics" />
@@ -58,7 +86,7 @@ Hi there! 👋 I'm **Aryan Kumar**, a tech enthusiast and developer who loves bu
 
 ---
 
-## Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanmax-dev&theme=tokyonight" alt="GitHub Contribution Summary" />
@@ -66,7 +94,7 @@ Hi there! 👋 I'm **Aryan Kumar**, a tech enthusiast and developer who loves bu
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/aryanmax-dev">
@@ -77,5 +105,5 @@ Hi there! 👋 I'm **Aryan Kumar**, a tech enthusiast and developer who loves bu
 <p align="center">
   <b>Code. Create. Innovate.</b>
   <br/>
-  <i>Keep building awesome stuff!</i>
+  <i>Keep learning, keep building, keep growing!</i>
 </p>
